@@ -23,8 +23,8 @@ AWS Image Recognition as a service
   - Create an EC2 instance using given AMI
 
   - Connect to the remote machine using SSH command and install the following:
-    - `python pip3`
-    - `python boto3 - pip3 install boto3`
+    - python pip3
+    - python boto3 - `pip3 install boto3`
 
   - Transfer the following files to the instance:
     - face_recognition_and_listener.py`
